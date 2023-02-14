@@ -27,13 +27,17 @@ namespace Lab1
         //умножение
         public void Multiply(Complex x)
         {
-            Real *= x.Real;
-            Imag *= x.Imag;
+            double tempReal = Real * x.Real - Real * x.Imag;
+            Imag = Real * x.Imag + Imag * x.Real;
+            Real = tempReal;
         }
         public void Divide(Complex x)
         {
-            Real /= x.Real;
-            Imag /= x.Imag;
+            double divi = x.Real * x.Real + x.Imag * x.Imag;
+            double tempReal = (Real * x.Real + Imag * x.Imag) / divi;
+            Imag = (Imag * x.Real - Real * x.Imag)/ divi;
+            Real = tempReal;
         }
+
     }
 }

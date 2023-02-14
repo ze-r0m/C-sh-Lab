@@ -36,6 +36,7 @@ namespace Lab1
             City = City + " " + y.City + " " + z.City;
             Height += y.Height + z.Height;
             Weight += y.Weight + z.Weight;
+
         }
     }
 }
