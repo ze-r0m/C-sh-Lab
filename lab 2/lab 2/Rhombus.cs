@@ -15,5 +15,6 @@ namespace lab_2
         {
             return side * height;
         }
+
     }
 }

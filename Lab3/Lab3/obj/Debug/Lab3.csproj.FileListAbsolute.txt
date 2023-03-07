@@ -1,0 +1,8 @@
+D:\1_учеба\6 семестр\Межплатформенное программирование\Lab\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\1_учеба\6 семестр\Межплатформенное программирование\Lab\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\1_учеба\6 семестр\Межплатформенное программирование\Lab\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\1_учеба\6 семестр\Межплатформенное программирование\Lab\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\1_учеба\6 семестр\Межплатформенное программирование\Lab\Lab3\Lab3\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+D:\1_учеба\6 семестр\Межплатформенное программирование\Lab\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\1_учеба\6 семестр\Межплатформенное программирование\Lab\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\1_учеба\6 семестр\Межплатформенное программирование\Lab\Lab3\Lab3\obj\Debug\Lab3.pdb

@@ -40,6 +40,18 @@ namespace lab_2
             Console.WriteLine("Название фигуры: {0}", c.Name);
             Console.WriteLine("Площадь фигуры: {0}", c.GetArea());
 
+            //Создадим треугольник, зададим параметры и выведем
+            Triangle triangle = new Triangle()
+            {
+                Name = "Треугольник triangle",
+                a = 4,
+                b = 6,
+                c = 8
+            };
+            Console.WriteLine();
+            Console.WriteLine("Название фигуры: {0}", triangle.Name);
+            Console.WriteLine("Площадь фигуры: {0}", triangle.GetArea());
+
             //Создадим трапецию t, зададим параметры и выведем
             Trapezoid t = new Trapezoid()
             {
@@ -52,7 +64,7 @@ namespace lab_2
             //Создадим ромб r, зададим параметры и выведем
             Rhombus r = new Rhombus()
             {
-                Name = "Трапеция r", side = 10, height = 15
+                Name = "Ромб r", side = 10, height = 15
             };
             Console.WriteLine();
             Console.WriteLine("Название фигуры: {0}", r.Name);
